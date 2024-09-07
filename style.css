@@ -66,3 +66,17 @@ button:active {
 .operationButtn:active {
     background-color: hsl(35, 99%, 65%);
 }
+
+
+@media (width < 750px) {
+    #cal {
+
+        max-width: 400px;
+    }
+
+    button {
+        width: 80px;
+        height: 80px;
+
+    }
+}
