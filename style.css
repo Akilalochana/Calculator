@@ -71,12 +71,12 @@ button:active {
 @media (width < 750px) {
     #cal {
 
-        max-width: 400px;
+        max-width: 350px;
     }
 
     button {
-        width: 80px;
-        height: 80px;
+        width: 70px;
+        height: 70px;
 
     }
 }
